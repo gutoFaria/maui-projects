@@ -1,0 +1,1 @@
+C:\maui-projects\BMI\BMI\BMI.csproj;x64
